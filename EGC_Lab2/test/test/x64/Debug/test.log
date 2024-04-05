@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol "float __cdecl egc::dotProduct(class egc::vec2 const &,class egc::vec2 const &)" (?dotProduct@egc@@YAMAEBVvec2@1@0@Z) referenced in function "int __cdecl testVec2Implementation(void)" (?testVec2Implementation@@YAHXZ)
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab2\test\x64\Debug\test.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,3 @@
+﻿  mat4.cpp
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab3\EGC_Lab3\mat4.cpp(156,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EGC_Lab3.vcxproj -> C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab3\x64\Debug\EGC_Lab3.exe

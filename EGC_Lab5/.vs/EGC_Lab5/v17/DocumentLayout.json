@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\main.cpp",
+              "RelativeDocumentMoniker": "EGC_Lab5\\main.cpp",
+              "ToolTip": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\main.cpp",
+              "RelativeToolTip": "EGC_Lab5\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T05:56:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "transform.cpp",
+              "DocumentMoniker": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp",
+              "RelativeDocumentMoniker": "EGC_Lab5\\transform.cpp",
+              "ToolTip": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp",
+              "RelativeToolTip": "EGC_Lab5\\transform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T05:35:21.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

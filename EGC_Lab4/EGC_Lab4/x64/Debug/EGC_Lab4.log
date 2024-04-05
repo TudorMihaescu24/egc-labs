@@ -1,0 +1,12 @@
+﻿  testTransform.cpp
+  transform.cpp
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(57,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(61,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(147,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(151,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(182,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(186,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(218,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\EGC_Lab4\transform.cpp(222,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  EGC_Lab4.vcxproj -> C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab4\x64\Debug\EGC_Lab4.exe

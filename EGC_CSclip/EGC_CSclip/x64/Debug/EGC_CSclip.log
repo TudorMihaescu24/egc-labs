@@ -1,0 +1,10 @@
+﻿  clip.cpp
+  main.cpp
+  mat3.cpp
+C:\Users\tmiha\Documents\Programming\ECG\EGC_CSclip\EGC_CSclip\mat3.cpp(96,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mat4.cpp
+C:\Users\tmiha\Documents\Programming\ECG\EGC_CSclip\EGC_CSclip\mat4.cpp(156,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  EGC_CSclip.vcxproj -> C:\Users\tmiha\Documents\Programming\ECG\EGC_CSclip\x64\Debug\EGC_CSclip.exe

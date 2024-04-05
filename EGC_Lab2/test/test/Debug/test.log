@@ -1,0 +1,3 @@
+﻿  vec2.cpp
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab2\test\test\vec2.cpp(52,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab2\test\Debug\test.exe
