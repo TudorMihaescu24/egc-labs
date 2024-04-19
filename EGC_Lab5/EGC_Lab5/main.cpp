@@ -125,20 +125,68 @@ int main(int argc, char * argv[]) {
                     std::cout << "Mouse move => " << "x: " << mouseX << ", y: " << mouseY << std::endl;
                 }
             }
-            
+
+            float rotationAngle = 10.0f;
+            float scaleFactor = 1.1;
+            mat3 rotationMatrix;
+            mat3 scaleMatrix;
+            mat3 translationBack;
+            mat3 rotation;
+            mat3 scales;
+            mat3 translationToOrigin;
             //Keyboard event
             if(currentEvent.type == SDL_KEYDOWN)
             {
                 switch(currentEvent.key.keysym.sym)
-                {
-                    case SDLK_UP:       
+                { 
+                    case SDLK_UP:
+                        translationToOrigin = translate(-P1.x, -P1.y);
+                        scales = scale(scaleFactor, scaleFactor);
+                        translationBack = translate(P1.x, P1.y);
+                        scaleMatrix = translationBack * scales * translationToOrigin;
+                        P1 = scaleMatrix * P1;
+                        P2 = P1 + scaleMatrix * (P2 - P1);
+                        rectangleCoordinates = { (int)P1.x, (int)P1.y, (int)(P2.x - P1.x), (int)(P2.y - P1.y) };
+                        break;
+
+                    case SDLK_DOWN:
+                        translationToOrigin = translate(-P1.x, -P1.y);
+                        scales = scale(scaleFactor - 0.2, scaleFactor-0.2);
+                        translationBack = translate(P1.x, P1.y);
+                        scaleMatrix = translationBack * scales * translationToOrigin;
+                        P1 = scaleMatrix * P1;
+                        P2 = P1 + scaleMatrix * (P2 - P1);
+                        rectangleCoordinates = { (int)P1.x, (int)P1.y, (int)(P2.x - P1.x), (int)(P2.y - P1.y) };
                         break;
                         
                     case SDLK_RIGHT:
-                        float rotationAngle = 45.0f; // Rotation angle in degrees
-                        mat4 rotationMatrix = rotateZ(rotationAngle); // Create a rotation matrix
-                        P1 = rotationMatrix * P1; //error why?
+                        translationToOrigin = translate(-P1.x, -P1.y);
+
+                        rotation = rotate(rotationAngle);
+
+                        translationBack = translate(P1.x, P1.y);
+
+                        rotationMatrix = translationBack * rotation * translationToOrigin;
+
+                        P1 = rotationMatrix * P1;
                         P2 = rotationMatrix * P2;
+
+                        rectangleCoordinates = { (int)P1.x, (int)P1.y, (int)(P2.x - P1.x), (int)(P2.y - P1.y) };
+                        break;
+
+                    case SDLK_LEFT:
+                        translationToOrigin = translate(-P1.x, -P1.y);
+
+                        rotation = rotate(-rotationAngle);
+
+                        translationBack = translate(P1.x, P1.y);
+
+                        rotationMatrix = translationBack * rotation * translationToOrigin;
+
+                        P1 = rotationMatrix * P1;
+                        P2 = rotationMatrix * P2;
+
+                        rectangleCoordinates = { (int)P1.x, (int)P1.y, (int)(P2.x - P1.x), (int)(P2.y - P1.y) };
                         break;
                         
                     default:                        

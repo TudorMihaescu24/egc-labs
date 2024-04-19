@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\mat3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\mat3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "mat3.h",
               "DocumentMoniker": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.h",
               "RelativeDocumentMoniker": "EGC_Lab5\\mat3.h",
@@ -43,22 +43,25 @@
               "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-19T05:44:21.021Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "transform.cpp",
               "DocumentMoniker": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp",
               "RelativeDocumentMoniker": "EGC_Lab5\\transform.cpp",
               "ToolTip": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\transform.cpp",
               "RelativeToolTip": "EGC_Lab5\\transform.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsAAAABAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-19T05:41:07.149Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -70,16 +73,11 @@
               "RelativeToolTip": "EGC_Lab5\\vec3.h",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-19T06:19:23.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-04-19T06:19:23.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "mat3.cpp",
               "DocumentMoniker": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\mat3.cpp",
               "RelativeDocumentMoniker": "EGC_Lab5\\mat3.cpp",
@@ -87,8 +85,7 @@
               "RelativeToolTip": "EGC_Lab5\\mat3.cpp",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-19T05:40:59.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T05:40:59.19Z"
             },
             {
               "$type": "Document",
@@ -98,7 +95,7 @@
               "RelativeDocumentMoniker": "EGC_Lab5\\main.cpp",
               "ToolTip": "C:\\Users\\tmiha\\Documents\\Programming\\ECG\\EGC_Lab5\\EGC_Lab5\\main.cpp",
               "RelativeToolTip": "EGC_Lab5\\main.cpp",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAkwKIAAAAAAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-19T05:36:03.721Z",
               "EditorCaption": ""
