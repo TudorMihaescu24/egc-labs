@@ -21,9 +21,6 @@
     <ClCompile Include="mat3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mat4.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="transform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -36,9 +33,12 @@
     <ClCompile Include="vec4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mat4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mat4.h">
+    <ClInclude Include="mat3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="transform.h">
@@ -51,6 +51,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="vec4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mat4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

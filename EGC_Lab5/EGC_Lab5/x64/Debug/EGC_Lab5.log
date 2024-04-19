@@ -1,2 +1,65 @@
 ﻿  main.cpp
-  EGC_Lab5.vcxproj -> C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\x64\Debug\EGC_Lab5.exe
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(110,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(111,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(122,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(123,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,30): error C2679: binary '*': no operator found which takes a right-hand operand of type 'egc::vec3' (or there is no acceptable conversion)
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(55,14):
+  could be 'egc::vec4 egc::mat4::operator *(const egc::vec4 &) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,30):
+  	'egc::vec4 egc::mat4::operator *(const egc::vec4 &) const': cannot convert argument 2 from 'egc::vec3' to 'const egc::vec4 &'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,47):
+  		Reason: cannot convert from 'egc::vec3' to 'const egc::vec4'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(54,14):
+  or       'egc::mat4 egc::mat4::operator *(const egc::mat4 &) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,30):
+  	'egc::mat4 egc::mat4::operator *(const egc::mat4 &) const': cannot convert argument 2 from 'egc::vec3' to 'const egc::mat4 &'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,47):
+  		Reason: cannot convert from 'egc::vec3' to 'const egc::mat4'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(53,14):
+  or       'egc::mat4 egc::mat4::operator *(float) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,30):
+  	'egc::mat4 egc::mat4::operator *(float) const': cannot convert argument 2 from 'egc::vec3' to 'float'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(140,30):
+  while trying to match the argument list '(egc::mat4, egc::vec3)'
+  
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,30): error C2679: binary '*': no operator found which takes a right-hand operand of type 'egc::vec3' (or there is no acceptable conversion)
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(55,14):
+  could be 'egc::vec4 egc::mat4::operator *(const egc::vec4 &) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,30):
+  	'egc::vec4 egc::mat4::operator *(const egc::vec4 &) const': cannot convert argument 2 from 'egc::vec3' to 'const egc::vec4 &'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,47):
+  		Reason: cannot convert from 'egc::vec3' to 'const egc::vec4'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(54,14):
+  or       'egc::mat4 egc::mat4::operator *(const egc::mat4 &) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,30):
+  	'egc::mat4 egc::mat4::operator *(const egc::mat4 &) const': cannot convert argument 2 from 'egc::vec3' to 'const egc::mat4 &'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,47):
+  		Reason: cannot convert from 'egc::vec3' to 'const egc::mat4'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\mat4.h(53,14):
+  or       'egc::mat4 egc::mat4::operator *(float) const'
+  	C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,30):
+  	'egc::mat4 egc::mat4::operator *(float) const': cannot convert argument 2 from 'egc::vec3' to 'float'
+  		C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,47):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(141,30):
+  while trying to match the argument list '(egc::mat4, egc::vec3)'
+  
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(144,21): error C2361: initialization of 'rotationMatrix' is skipped by 'default' label
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(139,30):
+  see declaration of 'rotationMatrix'
+  
+C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(144,21): error C2361: initialization of 'rotationAngle' is skipped by 'default' label
+  C:\Users\tmiha\Documents\Programming\ECG\EGC_Lab5\EGC_Lab5\main.cpp(138,31):
+  see declaration of 'rotationAngle'
+  
